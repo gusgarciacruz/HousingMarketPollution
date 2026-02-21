@@ -17,5 +17,5 @@ The Codes folder contains information about the codes in the R language:
 Aristizábal, J. and García, G. (2026). "Housing market impacts of air pollution. Do objective or subjective measures of air quality matter?
 
 ### Authors
-- Juan Manuel Aristizábal - Universidad de Manizales (Colombia)
+- Juan M. Aristizábal - Universidad de Manizales (Colombia)
 - [Gustavo A. García](https://gusgarciacruz.github.io/cv) - Universidad EAFIT (Colombia)
